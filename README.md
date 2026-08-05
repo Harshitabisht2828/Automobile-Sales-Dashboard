@@ -25,6 +25,10 @@ The dashboard helps analyze automobile sales performance and provides useful bus
 
 The objective of this project is to analyze automobile sales data and present meaningful insights through an interactive Power BI dashboard.
 
+## 📸 Dashboard Preview
+
+![Automobile Sales Dashboard](Screenshot%202026-08-05%20232400.png)
+
 ## 📁 Project File
 
 The Power BI dashboard file is available in this repository:
