@@ -1,28 +1,32 @@
-# Automobile-Sales-Dashboard
-Power BI Automobile Sales Dashboard
-# 🚗 Automobile Sales Dashboard
+# Automobile Sales Dashboard
 
 ## 📊 Project Overview
-This project is an interactive **Power BI Automobile Sales Dashboard** designed to analyze automobile sales data and identify important sales trends and business insights.
+
+This project is an Automobile Sales Dashboard created using Microsoft Power BI.
+
+The dashboard helps analyze automobile sales performance and provides useful business insights through interactive visualizations.
 
 ## 🛠️ Tools & Technologies
-- Power BI
-- Data Cleaning & Transformation
-- Data Visualization
-- DAX
+
+* Microsoft Power BI
+* Power Query
+* DAX
+* Data Visualization
 
 ## 📈 Dashboard Features
-- Overall sales performance
-- Sales trends and analysis
-- Vehicle/model-wise analysis
-- Customer and sales insights
-- Interactive charts and filters
 
-## 🎯 Objective
-The objective of this dashboard is to transform raw automobile sales data into meaningful visual insights that can help understand sales performance and trends.
+* Total Sales Analysis
+* Sales Performance
+* Automobile Sales Insights
+* Interactive Charts and Visualizations
+* Data-driven Business Insights
+
+## 🎯 Project Objective
+
+The objective of this project is to analyze automobile sales data and present meaningful insights through an interactive Power BI dashboard.
 
 ## 📁 Project File
-The Power BI dashboard file (`.pbix`) is included in this repository.
 
-## 👩‍💻 Author
-Harshita Bisht
+The Power BI dashboard file is available in this repository:
+
+`automobile_salesdashboard(first).pbix`
