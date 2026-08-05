@@ -25,4 +25,4 @@ The objective of this dashboard is to transform raw automobile sales data into m
 The Power BI dashboard file (`.pbix`) is included in this repository.
 
 ## 👩‍💻 Author
-Harshita
+Harshita Bisht
